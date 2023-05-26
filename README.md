@@ -28,7 +28,7 @@ VIDEO_CATEGORY=your_video_category
 2. Run the script with Python and follow the prompts:
 
 ```
-python your_script.py
+python main.py
 ```
 
 When prompted, enter the path to the folder that contains the videos you want to join and upload.
